@@ -8,4 +8,4 @@ Aqui você encontrará:
 Módulo - Introdução a Análise de Dados
 
 - Parte 1 - [Atividade realizada pelo Excalidraw]![Introdução ao módulo 3](https://github.com/user-attachments/assets/6cdfc314-c429-4f40-bd0d-83cf6bd29775)
-- Parte 2 - [Modulo.3.pdf](https://github.com/user-attachments/files/19740923/Modulo.3.pdf)
+- Parte 2 - [Atividade realizada pelo Canva] [Modulo.3.pdf](https://github.com/user-attachments/files/19740923/Modulo.3.pdf)
