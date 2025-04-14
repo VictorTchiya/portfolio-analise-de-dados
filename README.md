@@ -8,8 +8,8 @@ Aqui você encontrará:
 Módulo - Introdução a Análise de Dados
 
 - Parte 1 - [Atividade realizada pelo Excalidraw]
-- <a href="modulo-3/fluxograma-modulo-3.png" target="_blank">
-  <img src="modulo-3/fluxograma-modulo-3.png" alt="Fluxograma Módulo 3" width="500"/>
+- <a href="modulo-3/Introdução ao módulo 3.png" target="_blank">
+  <img src="modulo-3/Introdução ao módulo 3.png" alt="Introdução ao módulo 3" width="500"/>
 </a>
 - Parte 2 - [Atividade realizada pelo Canva]
 ![Visão de Negócios](https://github.com/user-attachments/assets/40c13180-74d6-4cdc-a4a0-2c29e38948af)
