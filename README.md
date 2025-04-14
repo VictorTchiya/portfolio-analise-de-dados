@@ -8,11 +8,27 @@ Aqui você encontrará:
 Módulo - Introdução a Análise de Dados
 
 - Parte 1 - [Atividade realizada pelo Excalidraw]
-- <a href="modulo-3/Introdução ao módulo 3.png" target="_blank">
-  <img src="modulo-3/Introdução ao módulo 3.png" alt="Introdução ao módulo 3" width="500"/>
+  
+   <a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Introdu%C3%A7%C3%A3o%20ao%20m%C3%B3dulo%203.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Introdu%C3%A7%C3%A3o%20ao%20m%C3%B3dulo%203.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
 </a>
-- Parte 2 - [Atividade realizada pelo Canva]
-![Visão de Negócios](https://github.com/user-attachments/assets/40c13180-74d6-4cdc-a4a0-2c29e38948af)
-![Soft Skill](https://github.com/user-attachments/assets/f7d28699-748e-40d5-ace0-0cbd30ac5e53)
-![Hard Skill](https://github.com/user-attachments/assets/c6327f97-441a-41d3-9478-7da6f91a6a1e)
+
+
+Parte 2 - [Atividade realizada pelo Canva]
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Soft%20Skill.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Soft%20Skill.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Hard%20Skill.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Hard%20Skill.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Vis%C3%A3o%20de%20Neg%C3%B3cios.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Vis%C3%A3o%20de%20Neg%C3%B3cios.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
 
