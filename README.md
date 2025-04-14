@@ -7,7 +7,10 @@ Aqui você encontrará:
 
 Módulo - Introdução a Análise de Dados
 
-- Parte 1 - [Atividade realizada pelo Excalidraw]![Introdução ao módulo 3](https://github.com/user-attachments/assets/6cdfc314-c429-4f40-bd0d-83cf6bd29775)
+- Parte 1 - [Atividade realizada pelo Excalidraw]
+- <a href="modulo-3/fluxograma-modulo-3.png" target="_blank">
+  <img src="modulo-3/fluxograma-modulo-3.png" alt="Fluxograma Módulo 3" width="500"/>
+</a>
 - Parte 2 - [Atividade realizada pelo Canva]
 ![Visão de Negócios](https://github.com/user-attachments/assets/40c13180-74d6-4cdc-a4a0-2c29e38948af)
 ![Soft Skill](https://github.com/user-attachments/assets/f7d28699-748e-40d5-ace0-0cbd30ac5e53)
