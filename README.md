@@ -34,8 +34,5 @@ Parte 2 - [Atividade realizada pelo Canva]
 
 Parte 3 - [Atividade realizada pelo Canva]
 
-<a href="[https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Soft%20Skill.png](https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Continua%C3%A7%C3%A3o_M%C3%B3dulo3.pdf)?raw=true" target="_blank">
-  <img src="ht[tps://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Soft%20Skill.png](https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Continua%C3%A7%C3%A3o_M%C3%B3dulo3.pdf)?raw=true" alt="Fluxograma Módulo 3" width="300"/>
-</a>
-</h3>
+
 
