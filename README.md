@@ -33,6 +33,40 @@ Parte 2 - [Atividade realizada pelo Canva]
 </h3>
 
 Parte 3 - [Atividade realizada pelo Canva]
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/1.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/1.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/2.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/2.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/3.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/3.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/4.png?raw=true" target="_blank">
+  <https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/4.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/5.png?raw=true" target="_blank">
+  <https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/5.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/6.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/6.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
+
+<a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/7.png?raw=true" target="_blank">
+  <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/7.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
+</a>
+</h3>
 
 
 
