@@ -35,6 +35,7 @@ Parte 2 - [Atividade realizada pelo Canva]
 </h3>
 
 Parte 3 - [Atividade realizada pelo Canva]
+
 <a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/1.png?raw=true" target="_blank">
   <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/1.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
 </a>
