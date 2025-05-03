@@ -31,6 +31,8 @@ Parte 2 - [Atividade realizada pelo Canva]
   <img src="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/Vis%C3%A3o%20de%20Neg%C3%B3cios.png?raw=true" alt="Fluxograma Módulo 3" width="300"/>
 </a>
 </h3>
+</h3>
+</h3>
 
 Parte 3 - [Atividade realizada pelo Canva]
 <a href="https://github.com/VictorTchiya/portfolio-analise-de-dados/blob/main/1.png?raw=true" target="_blank">
